@@ -3,11 +3,6 @@
 - 🌱 Estudando Engenharia de Dados
 - 😄 Pronouns: Ela/Dela
 
-
-<a href="https://github.com/AngelicaSalvino">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=AngelicaSalvino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
-
 ##
 
 <div> 
