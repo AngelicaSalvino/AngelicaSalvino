@@ -26,6 +26,12 @@ Sou apaixonada por dança de salão e por fazer trilha e viajar de moto!
 
 Inclusive tenho um canal no YouTube onde falo das trilhas e viagens que faço pelo Brasil.
 
+<div>
+<a href="https://github.com/AngelicaSalvino">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=AngelicaSalvino&show_icons=true&theme=blue&include_all_comits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaSalvino&layout-compact&langs_count=16&theme=blue"/>
+
+</div>
 
 
 ##
