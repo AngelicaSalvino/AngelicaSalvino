@@ -1,7 +1,32 @@
-### Olá! 👋 Eu sou a Angélica Salvino
+## Olá! 👋 Eu sou a Angélica Salvino
 
 - 🌱 Estudando Engenharia de Dados
 - 😄 Pronouns: Ela/Dela
+
+  
+Formada em Administração de Empresas e com mais de 10 anos de experiência no setor.
+Tenho 35 anos, sou apaixonada por tecnologia e aprendizado constante e atualmente estou focada na tão sonhada migração de carreira. 
+Atualmente, estou estudando engenharia de dados na escola Korú e Front-End Iniciante pela ProzEducacional.
+
+Sou uma pessoa criativa e curiosa, sempre procurando novas oportunidades para aprender e crescer. 
+
+Estou sempre em busca de desafios e acredito que a tecnologia pode ser uma ferramenta poderosa para o bem.
+
+Meus objetivos são:
+
+* Tornar-me uma profissional de engenharia de dados capacitada
+* Desenvolver minhas habilidades em Front-End
+* Contribuir para o desenvolvimento de projetos inovadores
+
+Estou sempre disponível para colaborar com projetos e compartilhar meu conhecimento.
+
+### Curiosidades:
+
+Sou apaixonada por dança de salão e por fazer trilha e viajar de moto!
+
+Inclusive tenho um canal no YouTube onde falo das trilhas e viagens que faço pelo Brasil.
+
+
 
 ##
 
