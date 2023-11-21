@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou a Angélica Salvino
 
-- 🌱 Estudando Engenharia de Dados
+- 🌱 Estudando Engenharia de Dados e Front-End
 - 😄 Pronouns: Ela/Dela
 
   
