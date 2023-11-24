@@ -1,12 +1,15 @@
 ## Olá! 👋 Eu sou a Angélica Salvino
 
-- 🌱 Estudando Engenharia de Dados e Front-End
+- 🌱 Estudando DevOps na [Ada](https://ada.tech/)
+- 🌱 Estudando Engenharia de Dados na [Korú](https://escolakoru.com.br/)
+- 🌱 Estudando Introdução à Lógica de Programação Front-End na [Proz Educação](https://pages.prozeducacao.com.br/proz-tecnologia)
 - 😄 Pronouns: Ela/Dela
 
   
 Formada em Administração de Empresas e com mais de 10 anos de experiência no setor.
-Tenho 35 anos, sou apaixonada por tecnologia e aprendizado constante e atualmente estou focada na tão sonhada migração de carreira. 
-Atualmente, estou estudando engenharia de dados na escola Korú e Front-End Iniciante pela ProzEducacional.
+Tenho 35 anos, sou apaixonada por tecnologia e aprendizado constante.
+Atualmente estou focada na tão sonhada migração de carreira. 
+Estou estudando DevOps, engenharia de dados e Front-End e o objetivo é manter o aprendizado constante.
 
 Sou uma pessoa criativa e curiosa, sempre procurando novas oportunidades para aprender e crescer. 
 
@@ -14,7 +17,9 @@ Estou sempre em busca de desafios e acredito que a tecnologia pode ser uma ferra
 
 Meus objetivos são:
 
-* Tornar-me uma profissional de engenharia de dados capacitada
+* Tornar-me uma profissional capacitada na área da tecnologia
+* Desevolver habilidades em Dados
+* Desenvolver habilidades em DevOps
 * Desenvolver minhas habilidades em Front-End
 * Contribuir para o desenvolvimento de projetos inovadores
 
@@ -24,7 +29,7 @@ Estou sempre disponível para colaborar com projetos e compartilhar meu conhecim
 
 Sou apaixonada por dança de salão e por fazer trilha e viajar de moto!
 
-Inclusive tenho um canal no YouTube onde falo das trilhas e viagens que faço pelo Brasil.
+Inclusive tenho um canal no [YouTube](youtube.com/@angelicasalvino) onde falo das trilhas e viagens que faço pelo Brasil, aproveita e me segue lá também!
 
 <div>
 <a href="https://github.com/AngelicaSalvino">
