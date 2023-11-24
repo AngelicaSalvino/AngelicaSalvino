@@ -1,8 +1,8 @@
 ## Olá! 👋 Eu sou a Angélica Salvino
 
-- 🌱 Estudando DevOps na [Ada](https://ada.tech/)
-- 🌱 Estudando Engenharia de Dados na [Korú](https://escolakoru.com.br/)
-- 🌱 Estudando Introdução à Lógica de Programação Front-End na [Proz Educação](https://pages.prozeducacao.com.br/proz-tecnologia)
+- 🌱 Estudando DevOps na [Ada](https://www.ada.tech/)
+- 🌱 Estudando Engenharia de Dados na [Korú](https://www.escolakoru.com.br/)
+- 🌱 Estudando Introdução à Lógica de Programação Front-End na [Proz Educação](https://www.pages.prozeducacao.com.br/proz-tecnologia)
 - 😄 Pronouns: Ela/Dela
 
   
@@ -29,7 +29,7 @@ Estou sempre disponível para colaborar com projetos e compartilhar meu conhecim
 
 Sou apaixonada por dança de salão e por fazer trilha e viajar de moto!
 
-Inclusive tenho um canal no [YouTube](youtube.com/@angelicasalvino) onde falo das trilhas e viagens que faço pelo Brasil, aproveita e me segue lá também!
+Inclusive tenho um canal no [YouTube](https://www.youtube.com/@angelicasalvino) onde falo das trilhas e viagens que faço pelo Brasil, aproveita e me segue lá também!
 
 <div>
 <a href="https://github.com/AngelicaSalvino">
