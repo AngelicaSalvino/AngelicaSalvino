@@ -33,8 +33,8 @@ Inclusive tenho um canal no [YouTube](https://www.youtube.com/@angelicasalvino) 
 
 <div>
 <a href="https://github.com/AngelicaSalvino">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=AngelicaSalvino&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaSalvino&layout-compact&langs_count=16&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=AngelicaSalvino&show_icons=true&theme=grey&include_all_comits=true&count_private=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelicaSalvino&layout-compact&langs_count=16&theme=grey"/>
 
 </div>
 
