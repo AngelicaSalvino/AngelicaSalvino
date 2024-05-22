@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Foundation/Observabilidade na [O2B Academy](https://academy.o2b.com.br/)
 - 🌱 Segunda Graduação em andamento em Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
-- 🌱 Estudando AWS na [Escola da Nuvem](https://www.pages.prozeducacao.com.br/proz-tecnologia](https://escoladanuvem.org/)
+- 🌱 Estudando AWS na [Escola da Nuvem](https://escoladanuvem.org/)
 - 🌱 Estudando AWS Expert na [LinuxTips](https://www.linuxtips.io/course/aws-expert)
 - 😄 Pronouns: Ela/Dela
 
