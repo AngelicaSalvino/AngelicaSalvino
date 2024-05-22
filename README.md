@@ -1,13 +1,14 @@
 ## Olá! 👋 Eu sou a Angélica Salvino
 
-- 🌱 Estudando DevOps na [Ada](https://www.ada.tech/)
-- 🌱 Estudando Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
-- 🌱 Estudando Introdução à Lógica de Programação Front-End na [Proz Educação](https://www.pages.prozeducacao.com.br/proz-tecnologia)
+- 🌱 Estudando Foundation/Observabilidade na [O2B Academy](https://academy.o2b.com.br/)
+- 🌱 Segunda Graduação em andamento em Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
+- 🌱 Estudando AWS na [Escola da Nuvem](https://www.pages.prozeducacao.com.br/proz-tecnologia](https://escoladanuvem.org/)
+- 🌱 Estudando AWS Expert na [LinuxTips](https://www.linuxtips.io/course/aws-expert)
 - 😄 Pronouns: Ela/Dela
 
   
 Formada em Administração de Empresas e com mais de 10 anos de experiência no setor.
-Tenho 35 anos, sou apaixonada por tecnologia e aprendizado constante.
+Tenho 36 anos, sou apaixonada por tecnologia e aprendizado constante.
 Atualmente estou focada na tão sonhada migração de carreira, aqui você encontrará projetos e atividades realizadas nos cursos e na vida! 
 
 Sou uma pessoa criativa e curiosa, sempre procurando novas oportunidades para aprender e crescer. 
@@ -21,6 +22,11 @@ Meus objetivos são:
 * Contribuir para o desenvolvimento de projetos inovadores
 
 Estou sempre disponível para colaborar com projetos e compartilhar meu conhecimento.
+
+**Cursos Concluídos**
+- 🌱 Formação DevOps na [Ada](https://www.ada.tech/)
+- 🌱 Introdução à Lógica de Programação Front-End na [Proz Educação](https://www.pages.prozeducacao.com.br/proz-tecnologia)
+- 🌱 Formação Análise de Dados na [Data Science Academy](https://www.ada.tech/](https://www.datascienceacademy.com.br/)
 
 **Aplicações e dados**
 
