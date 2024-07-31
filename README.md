@@ -1,7 +1,7 @@
 ## Olá! 👋 Eu sou a Angélica Salvino
 
 - 🌱 Segunda Graduação em andamento em Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
-- 🌱 Estudando Engenharia de Dados na [Ada Tech](https://ada.tech)
+- 🌱 Estudando Engenharia de Dados na [Ada Tech](https://ada.tech/)
 - 🌱 Estudando AWS Expert na [LinuxTips](https://www.linuxtips.io/course/aws-expert)
 - 😄 Pronouns: Ela/Dela
 
