@@ -1,8 +1,7 @@
 ## Olá! 👋 Eu sou a Angélica Salvino
 
-- 🌱 Estudando Foundation/Observabilidade na [O2B Academy](https://academy.o2b.com.br/)
 - 🌱 Segunda Graduação em andamento em Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
-- 🌱 Estudando AWS na [Escola da Nuvem](https://escoladanuvem.org/)
+- 🌱 Estudando Engenharia de Dados na [Ada Tech](https://ada.tech)
 - 🌱 Estudando AWS Expert na [LinuxTips](https://www.linuxtips.io/course/aws-expert)
 - 😄 Pronouns: Ela/Dela
 
@@ -27,6 +26,7 @@ Estou sempre disponível para colaborar com projetos e compartilhar meu conhecim
 - 🌱 Formação DevOps na [Ada](https://www.ada.tech/)
 - 🌱 Introdução à Lógica de Programação Front-End na [Proz Educação](https://www.pages.prozeducacao.com.br/proz-tecnologia)
 - 🌱 Formação Análise de Dados na [Data Science Academy](https://www.ada.tech/](https://www.datascienceacademy.com.br/)
+- 🌱 Formação Foundation/Observabilidade na [O2B Academy](https://academy.o2b.com.br/)
 
 **Aplicações e dados**
 
