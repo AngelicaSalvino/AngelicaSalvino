@@ -2,7 +2,8 @@
 
 - 🌱 Segunda Graduação em andamento em Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
 - 🌱 Estudando Engenharia de Dados na [Ada Tech](https://ada.tech/)
-- 🌱 Estudando AWS Expert na [LinuxTips](https://www.linuxtips.io/course/aws-expert)
+- 🌱 Estudando Bootcamp Back-End Python e Django [WomakersCode](https://womakerscode.org/back-end-python/)
+- 🌱 Próximo Curso - AWS Expert na [LinuxTips](https://www.linuxtips.io/course/aws-expert)
 - 😄 Pronouns: Ela/Dela
 
   
