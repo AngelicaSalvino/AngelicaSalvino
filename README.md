@@ -1,8 +1,6 @@
 ## Olá! 👋 Eu sou a Angélica Salvino
 
-- 🌱 Segunda Graduação em andamento em Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
-- 🌱 Estudando Engenharia de Dados na [Ada Tech](https://ada.tech/)
-- 🌱 Estudando Bootcamp Back-End Python e Django [WomakersCode](https://womakerscode.org/back-end-python/)
+- 🌱 Segunda Graduação em pausa em Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
 - 🌱 Próximo Curso - AWS Expert na [LinuxTips](https://www.linuxtips.io/course/aws-expert)
 - 😄 Pronouns: Ela/Dela
 
@@ -24,6 +22,8 @@ Meus objetivos são:
 Estou sempre disponível para colaborar com projetos e compartilhar meu conhecimento.
 
 **Cursos Concluídos**
+- 🌱 Formação Engenharia de Dados na [Ada Tech](https://ada.tech/)
+- 🌱 Bootcamp Back-End Python e Django [WomakersCode](https://womakerscode.org/back-end-python/)
 - 🌱 Formação DevOps na [Ada](https://www.ada.tech/)
 - 🌱 Introdução à Lógica de Programação Front-End na [Proz Educação](https://www.pages.prozeducacao.com.br/proz-tecnologia)
 - 🌱 Formação Análise de Dados na [Data Science Academy](https://www.datascienceacademy.com.br/)
