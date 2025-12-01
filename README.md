@@ -1,7 +1,7 @@
 ## Olá! 👋 Eu sou a Angélica Salvino
 
+- 🌱 Cursando Front-end com ReactJS na [Growdev](https://growdev.com.br/)
 - 🌱 Segunda Graduação em pausa em Ciência de Dados na [Faculdade Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-de-dados/)
-- 🌱 Próximo Curso - AWS Expert na [LinuxTips](https://www.linuxtips.io/course/aws-expert)
 - 😄 Pronouns: Ela/Dela
 
   
