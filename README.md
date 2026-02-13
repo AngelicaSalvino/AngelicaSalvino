@@ -6,7 +6,7 @@
 
   
 Formada em Administração de Empresas e com mais de 10 anos de experiência no setor.
-Tenho 36 anos, sou apaixonada por tecnologia e aprendizado constante.
+Tenho 38 anos, sou apaixonada por tecnologia e aprendizado constante.
 Atualmente estou focada na tão sonhada migração de carreira, aqui você encontrará projetos e atividades realizadas nos cursos e na vida! 
 
 Sou uma pessoa criativa e curiosa, sempre procurando novas oportunidades para aprender e crescer. 
